@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T23:28:05Z",
+            "last_commit": "2026-08-14T03:22:54Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16193
+            "stars": 16207
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T00:56:44Z",
+            "last_commit": "2026-08-14T01:45:01Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8866
+            "stars": 8870
           }
         }
       ],
@@ -53,7 +53,7 @@
             "last_commit": "2024-06-24T07:01:06Z",
             "owner": "IanHarvey",
             "repo": "bluepy",
-            "stars": 1631
+            "stars": 1632
           }
         },
         {
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T07:58:59Z",
+            "last_commit": "2026-08-13T08:19:07Z",
             "owner": "simpleble",
             "repo": "simpleble",
-            "stars": 1111
+            "stars": 1113
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-10T14:20:14Z",
             "owner": "nordicsemi",
             "repo": "IOS-DFU-Library",
-            "stars": 587
+            "stars": 588
           }
         },
         {
@@ -230,7 +230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T07:49:04Z",
+            "last_commit": "2026-08-13T09:32:25Z",
             "owner": "JuulLabs",
             "repo": "kable",
             "stars": 1181
@@ -267,7 +267,7 @@
             "last_commit": "2026-04-17T08:58:51Z",
             "owner": "Jasonchenlijian",
             "repo": "FastBle",
-            "stars": 5501
+            "stars": 5502
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-10T03:36:37Z",
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
-            "stars": 1002
+            "stars": 1001
           }
         },
         {
@@ -402,10 +402,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T14:44:23Z",
+            "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19778
+            "stars": 19791
           }
         },
         {
@@ -416,7 +416,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T12:19:51Z",
+            "last_commit": "2026-08-13T14:18:54Z",
             "owner": "nordicsemi",
             "repo": "pc-nrfconnect-launcher",
             "stars": 223
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:33:02.517Z",
+    "last_updated": "2026-08-14T05:38:51.014Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
     "enhanced_repository": "enhansome/enhansome-ble",
