@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T03:22:54Z",
+            "last_commit": "2026-08-14T22:33:14Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16207
+            "stars": 16210
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T01:45:01Z",
+            "last_commit": "2026-08-15T00:53:29Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
             "stars": 8870
@@ -95,7 +95,7 @@
             "last_commit": "2026-07-23T17:14:27Z",
             "owner": "google",
             "repo": "bumble",
-            "stars": 543
+            "stars": 542
           }
         },
         {
@@ -230,7 +230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T09:32:25Z",
+            "last_commit": "2026-08-14T17:27:21Z",
             "owner": "JuulLabs",
             "repo": "kable",
             "stars": 1181
@@ -295,7 +295,7 @@
             "last_commit": "2026-07-10T08:05:18Z",
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2400
+            "stars": 2399
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-10T03:36:37Z",
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
-            "stars": 1001
+            "stars": 1002
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19791
+            "stars": 19792
           }
         },
         {
@@ -416,7 +416,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:18:54Z",
+            "last_commit": "2026-08-14T12:44:07Z",
             "owner": "nordicsemi",
             "repo": "pc-nrfconnect-launcher",
             "stars": 223
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:38:51.014Z",
+    "last_updated": "2026-08-15T04:32:45.297Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
     "enhanced_repository": "enhansome/enhansome-ble",
