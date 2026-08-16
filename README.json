@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T22:33:14Z",
+            "last_commit": "2026-08-15T23:08:07Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16210
+            "stars": 16221
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T00:53:29Z",
+            "last_commit": "2026-08-16T00:46:56Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
             "stars": 8870
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-05T19:53:18Z",
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
-            "stars": 1552
+            "stars": 1551
           }
         },
         {
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T08:19:07Z",
+            "last_commit": "2026-08-15T07:07:51Z",
             "owner": "simpleble",
             "repo": "simpleble",
             "stars": 1113
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-07T02:02:54Z",
             "owner": "PureSwift",
             "repo": "Bluetooth",
-            "stars": 233
+            "stars": 234
           }
         }
       ],
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19792
+            "stars": 19802
           }
         },
         {
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:32:45.297Z",
+    "last_updated": "2026-08-16T04:36:46.822Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
     "enhanced_repository": "enhansome/enhansome-ble",
