@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T23:08:07Z",
+            "last_commit": "2026-08-16T21:29:51Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16221
+            "stars": 16227
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T00:46:56Z",
+            "last_commit": "2026-08-17T00:49:56Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8870
+            "stars": 8871
           }
         }
       ],
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T07:07:51Z",
+            "last_commit": "2026-08-16T17:32:29Z",
             "owner": "simpleble",
             "repo": "simpleble",
             "stars": 1113
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-07T02:02:54Z",
             "owner": "PureSwift",
             "repo": "Bluetooth",
-            "stars": 234
+            "stars": 235
           }
         }
       ],
@@ -233,7 +233,7 @@
             "last_commit": "2026-08-14T17:27:21Z",
             "owner": "JuulLabs",
             "repo": "kable",
-            "stars": 1181
+            "stars": 1182
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-04-17T08:58:51Z",
             "owner": "Jasonchenlijian",
             "repo": "FastBle",
-            "stars": 5502
+            "stars": 5503
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2025-06-06T20:33:07Z",
             "owner": "dariuszseweryn",
             "repo": "RxAndroidBle",
-            "stars": 3540
+            "stars": 3542
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-07-10T08:05:18Z",
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2399
+            "stars": 2401
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2019-09-10T21:52:23Z",
             "owner": "googlearchive",
             "repo": "android-BluetoothChat",
-            "stars": 1008
+            "stars": 1007
           }
         },
         {
@@ -354,7 +354,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-10T03:36:37Z",
+            "last_commit": "2026-08-16T07:07:36Z",
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
             "stars": 1002
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19802
+            "stars": 19809
           }
         },
         {
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:36:46.822Z",
+    "last_updated": "2026-08-17T04:42:28.972Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
     "enhanced_repository": "enhansome/enhansome-ble",
