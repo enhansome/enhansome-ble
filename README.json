@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T21:29:51Z",
+            "last_commit": "2026-08-18T03:53:09Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16227
+            "stars": 16237
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T00:49:56Z",
+            "last_commit": "2026-08-18T00:48:56Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8871
+            "stars": 8876
           }
         }
       ],
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-05T19:53:18Z",
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
-            "stars": 1551
+            "stars": 1552
           }
         },
         {
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T17:32:29Z",
+            "last_commit": "2026-08-18T02:53:12Z",
             "owner": "simpleble",
             "repo": "simpleble",
             "stars": 1113
@@ -95,7 +95,7 @@
             "last_commit": "2026-07-23T17:14:27Z",
             "owner": "google",
             "repo": "bumble",
-            "stars": 542
+            "stars": 543
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-05-30T22:45:54Z",
             "owner": "manolofdez",
             "repo": "AsyncBluetooth",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -230,7 +230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T17:27:21Z",
+            "last_commit": "2026-08-17T09:20:47Z",
             "owner": "JuulLabs",
             "repo": "kable",
             "stars": 1182
@@ -244,7 +244,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-09T19:25:23Z",
+            "last_commit": "2026-08-17T12:47:43Z",
             "owner": "Reedyuk",
             "repo": "blue-falcon",
             "stars": 482
@@ -354,7 +354,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-16T07:07:36Z",
+            "last_commit": "2026-08-17T05:16:19Z",
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
             "stars": 1002
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19809
+            "stars": 19811
           }
         },
         {
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:42:28.972Z",
+    "last_updated": "2026-08-18T04:36:37.915Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
     "enhanced_repository": "enhansome/enhansome-ble",
