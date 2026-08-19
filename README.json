@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-18T03:53:09Z",
+            "last_commit": "2026-08-19T00:41:34Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16237
+            "stars": 16246
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T00:48:56Z",
+            "last_commit": "2026-08-19T04:32:42Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8876
+            "stars": 8878
           }
         }
       ],
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T02:53:12Z",
+            "last_commit": "2026-08-18T17:55:25Z",
             "owner": "simpleble",
             "repo": "simpleble",
             "stars": 1113
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-23T17:14:27Z",
+            "last_commit": "2026-08-18T16:57:47Z",
             "owner": "google",
             "repo": "bumble",
             "stars": 543
@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T09:20:47Z",
+            "last_commit": "2026-08-18T09:14:47Z",
             "owner": "JuulLabs",
             "repo": "kable",
-            "stars": 1182
+            "stars": 1183
           }
         },
         {
@@ -244,7 +244,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T12:47:43Z",
+            "last_commit": "2026-08-18T09:10:03Z",
             "owner": "Reedyuk",
             "repo": "blue-falcon",
             "stars": 482
@@ -267,7 +267,7 @@
             "last_commit": "2026-04-17T08:58:51Z",
             "owner": "Jasonchenlijian",
             "repo": "FastBle",
-            "stars": 5503
+            "stars": 5502
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19811
+            "stars": 19812
           }
         },
         {
@@ -416,10 +416,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:44:07Z",
+            "last_commit": "2026-08-18T16:56:00Z",
             "owner": "nordicsemi",
             "repo": "pc-nrfconnect-launcher",
-            "stars": 223
+            "stars": 224
           }
         }
       ],
@@ -432,7 +432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:36:37.915Z",
+    "last_updated": "2026-08-19T04:37:38.219Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
     "enhanced_repository": "enhansome/enhansome-ble",
