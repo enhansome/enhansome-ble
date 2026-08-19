@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Contents"
-    },
-    {
       "description": "Framework useful to develop your BLE peripherals.",
       "items": [
         {
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59771425,
             "language": "C",
-            "last_commit": "2026-08-19T00:41:34Z",
+            "last_commit": "2026-08-19T10:56:20Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16246
+            "stars": 16254
           }
         },
         {
@@ -29,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244694174,
             "language": "C++",
-            "last_commit": "2026-08-19T04:32:42Z",
+            "last_commit": "2026-08-19T09:49:46Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
             "stars": 8878
@@ -49,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13698035,
             "language": "C",
             "last_commit": "2024-06-24T07:01:06Z",
             "owner": "IanHarvey",
@@ -63,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107216551,
             "language": "C",
             "last_commit": "2026-08-05T19:53:18Z",
             "owner": "Moddable-OpenSource",
@@ -77,8 +76,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329225507,
             "language": "C++",
-            "last_commit": "2026-08-18T17:55:25Z",
+            "last_commit": "2026-08-19T06:55:33Z",
             "owner": "simpleble",
             "repo": "simpleble",
             "stars": 1113
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 492982151,
             "language": "Python",
             "last_commit": "2026-08-18T16:57:47Z",
             "owner": "google",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19384977,
             "language": "Python",
             "last_commit": "2026-04-13T23:19:00Z",
             "owner": "peplin",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55272510,
             "language": "Swift",
             "last_commit": "2026-08-07T02:02:54Z",
             "owner": "PureSwift",
@@ -139,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55787235,
             "language": "Swift",
             "last_commit": "2024-03-05T05:34:14Z",
             "owner": "Polidea",
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56493473,
             "language": "Swift",
             "last_commit": "2026-08-10T14:20:14Z",
             "owner": "nordicsemi",
@@ -167,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 384762376,
             "language": "Swift",
             "last_commit": "2026-05-30T22:45:54Z",
             "owner": "manolofdez",
@@ -181,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 399224695,
             "language": "Swift",
             "last_commit": "2024-10-31T16:57:45Z",
             "owner": "StarryInternet",
@@ -195,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54212981,
             "language": "Swift",
             "last_commit": "2023-12-18T14:30:24Z",
             "owner": "codeinversion",
@@ -209,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 706834978,
             "language": "Swift",
             "last_commit": "2025-09-13T22:19:09Z",
             "owner": "StanfordSpezi",
@@ -229,8 +238,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293227216,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T09:14:47Z",
+            "last_commit": "2026-08-19T09:16:49Z",
             "owner": "JuulLabs",
             "repo": "kable",
             "stars": 1183
@@ -243,11 +253,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202539590,
             "language": "Kotlin",
             "last_commit": "2026-08-18T09:10:03Z",
             "owner": "Reedyuk",
             "repo": "blue-falcon",
-            "stars": 482
+            "stars": 483
           }
         }
       ],
@@ -263,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66323960,
             "language": "Java",
             "last_commit": "2026-04-17T08:58:51Z",
             "owner": "Jasonchenlijian",
@@ -277,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51078408,
             "language": "Java",
             "last_commit": "2025-06-06T20:33:07Z",
             "owner": "dariuszseweryn",
@@ -291,11 +304,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114649434,
             "language": "Java",
             "last_commit": "2026-07-10T08:05:18Z",
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2401
+            "stars": 2402
           }
         },
         {
@@ -305,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 206875901,
             "language": "Java",
             "last_commit": "2025-07-10T15:23:23Z",
             "owner": "android",
@@ -319,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24778596,
             "language": "Java",
             "last_commit": "2019-09-10T21:52:23Z",
             "owner": "googlearchive",
@@ -333,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11074870,
             "language": "Java",
             "last_commit": "2026-07-02T15:06:14Z",
             "owner": "movisens",
@@ -353,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453740140,
             "language": "Dart",
             "last_commit": "2026-08-17T05:16:19Z",
             "owner": "chipweinberger",
@@ -367,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216583168,
             "language": "Dart",
             "last_commit": "2026-05-22T07:23:49Z",
             "owner": "PhilipsHue",
@@ -381,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121622800,
             "language": "Dart",
             "last_commit": "2024-07-29T07:28:27Z",
             "owner": "dotintent",
@@ -401,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116576783,
             "language": "Go",
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19812
+            "stars": 19817
           }
         },
         {
@@ -415,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80807106,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:56:00Z",
             "owner": "nordicsemi",
@@ -424,16 +446,12 @@
         }
       ],
       "title": "Tool"
-    },
-    {
-      "description": "Please take a quick look at the contribution guidelines first.\nIf you see an entry longer maintained or is not a good fit, please submit a pull request to improve this file.\nThank you to all contributors; you rock!",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:37:38.219Z",
+    "last_updated": "2026-08-19T12:17:41.690Z",
     "original_repository": "dotintent/awesome-ble",
+    "original_repository_id": 596031042,
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
     "enhanced_repository": "enhansome/enhansome-ble",
     "enhanced_repository_description": null,
