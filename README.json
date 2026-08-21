@@ -12,10 +12,10 @@
             "archived": false,
             "id": 59771425,
             "language": "C",
-            "last_commit": "2026-08-20T04:35:59Z",
+            "last_commit": "2026-08-21T02:40:14Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16257
+            "stars": 16271
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 244694174,
             "language": "C++",
-            "last_commit": "2026-08-20T01:42:41Z",
+            "last_commit": "2026-08-21T00:52:58Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8880
+            "stars": 8881
           }
         }
       ],
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 329225507,
             "language": "C++",
-            "last_commit": "2026-08-19T23:16:34Z",
+            "last_commit": "2026-08-20T06:24:42Z",
             "owner": "simpleble",
             "repo": "simpleble",
-            "stars": 1113
+            "stars": 1115
           }
         },
         {
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 293227216,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T09:16:49Z",
+            "last_commit": "2026-08-21T00:24:44Z",
             "owner": "JuulLabs",
             "repo": "kable",
             "stars": 1183
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-18T09:10:03Z",
             "owner": "Reedyuk",
             "repo": "blue-falcon",
-            "stars": 483
+            "stars": 484
           }
         }
       ],
@@ -279,7 +279,7 @@
             "last_commit": "2026-04-17T08:58:51Z",
             "owner": "Jasonchenlijian",
             "repo": "FastBle",
-            "stars": 5504
+            "stars": 5503
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19821
+            "stars": 19824
           }
         },
         {
@@ -438,7 +438,7 @@
             "archived": false,
             "id": 80807106,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T16:04:31Z",
+            "last_commit": "2026-08-20T13:44:21Z",
             "owner": "nordicsemi",
             "repo": "pc-nrfconnect-launcher",
             "stars": 224
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:38:02.579Z",
+    "last_updated": "2026-08-21T04:38:59.943Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_id": 596031042,
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
