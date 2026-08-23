@@ -12,10 +12,10 @@
             "archived": false,
             "id": 59771425,
             "language": "C",
-            "last_commit": "2026-08-21T20:49:19Z",
+            "last_commit": "2026-08-22T23:25:08Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16285
+            "stars": 16291
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 244694174,
             "language": "C++",
-            "last_commit": "2026-08-22T00:53:14Z",
+            "last_commit": "2026-08-23T00:48:16Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8881
+            "stars": 8883
           }
         }
       ],
@@ -279,7 +279,7 @@
             "last_commit": "2026-04-17T08:58:51Z",
             "owner": "Jasonchenlijian",
             "repo": "FastBle",
-            "stars": 5503
+            "stars": 5504
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-17T05:16:19Z",
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
-            "stars": 1002
+            "stars": 1003
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19836
+            "stars": 19845
           }
         },
         {
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:33:47.189Z",
+    "last_updated": "2026-08-23T04:38:07.269Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_id": 596031042,
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
