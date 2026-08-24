@@ -12,10 +12,10 @@
             "archived": false,
             "id": 59771425,
             "language": "C",
-            "last_commit": "2026-08-22T23:25:08Z",
+            "last_commit": "2026-08-23T21:37:44Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16291
+            "stars": 16293
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 244694174,
             "language": "C++",
-            "last_commit": "2026-08-23T00:48:16Z",
+            "last_commit": "2026-08-24T00:50:05Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8883
+            "stars": 8887
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-21T19:48:43Z",
             "owner": "simpleble",
             "repo": "simpleble",
-            "stars": 1115
+            "stars": 1116
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-18T16:57:47Z",
             "owner": "google",
             "repo": "bumble",
-            "stars": 544
+            "stars": 545
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-10T14:20:14Z",
             "owner": "nordicsemi",
             "repo": "IOS-DFU-Library",
-            "stars": 588
+            "stars": 587
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-07-10T08:05:18Z",
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2402
+            "stars": 2403
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19845
+            "stars": 19849
           }
         },
         {
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:38:07.269Z",
+    "last_updated": "2026-08-24T04:46:05.639Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_id": 596031042,
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
