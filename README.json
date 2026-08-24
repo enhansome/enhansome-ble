@@ -12,10 +12,10 @@
             "archived": false,
             "id": 59771425,
             "language": "C",
-            "last_commit": "2026-08-23T21:37:44Z",
+            "last_commit": "2026-08-24T14:27:17Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16293
+            "stars": 16297
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 244694174,
             "language": "C++",
-            "last_commit": "2026-08-24T00:50:05Z",
+            "last_commit": "2026-08-24T13:50:24Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8887
+            "stars": 8889
           }
         }
       ],
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 293227216,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T17:42:32Z",
+            "last_commit": "2026-08-24T09:25:24Z",
             "owner": "JuulLabs",
             "repo": "kable",
             "stars": 1184
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-18T09:10:03Z",
             "owner": "Reedyuk",
             "repo": "blue-falcon",
-            "stars": 484
+            "stars": 486
           }
         }
       ],
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 216583168,
             "language": "Dart",
-            "last_commit": "2026-05-22T07:23:49Z",
+            "last_commit": "2026-08-24T08:51:08Z",
             "owner": "PhilipsHue",
             "repo": "flutter_reactive_ble",
             "stars": 734
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19849
+            "stars": 19853
           }
         },
         {
@@ -438,7 +438,7 @@
             "archived": false,
             "id": 80807106,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:38:41Z",
+            "last_commit": "2026-08-24T13:20:37Z",
             "owner": "nordicsemi",
             "repo": "pc-nrfconnect-launcher",
             "stars": 224
@@ -446,10 +446,94 @@
         }
       ],
       "title": "Tool"
+    },
+    {
+      "description": "Web-based resources, frameworks, and tools for building Bluetooth Low Energy (BLE) applications using JavaScript and web technologies.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Web Bluetooth Samples",
+          "description": "A collection of Web Bluetooth API usage examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41744626,
+            "language": "HTML",
+            "last_commit": "2024-04-19T08:20:23Z",
+            "owner": "WebBluetoothCG",
+            "repo": "demos",
+            "stars": 677
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "Security related resources around BLE.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Bluetooth Security",
+          "description": "An awesome repo related to Bluetooth (and also BLE) realted security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 273961365,
+            "language": null,
+            "last_commit": "2025-10-03T22:06:03Z",
+            "owner": "engn33r",
+            "repo": "awesome-bluetooth-security",
+            "stars": 611
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "A list of resources dedicated to Arduino hardware",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ArduinoBLE",
+          "description": "ArduinoBLE library for Arduino",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157424148,
+            "language": "C++",
+            "last_commit": "2026-06-22T12:51:04Z",
+            "owner": "arduino-libraries",
+            "repo": "ArduinoBLE",
+            "stars": 358
+          }
+        }
+      ],
+      "title": "Arduino"
+    },
+    {
+      "description": "A list of resources dedicated to EspressIf hardware",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ESP-IDF",
+          "description": "Espressif IoT Development Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65899476,
+            "language": "C",
+            "last_commit": "2026-08-24T06:41:21Z",
+            "owner": "espressif",
+            "repo": "esp-idf",
+            "stars": 18859
+          }
+        }
+      ],
+      "title": "ESP"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:46:05.639Z",
+    "last_updated": "2026-08-24T14:35:37.846Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_id": 596031042,
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
