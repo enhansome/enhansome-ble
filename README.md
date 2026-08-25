@@ -57,7 +57,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *Framework useful to develop your BLE peripherals.*
 
-* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,303 | 🐛 3,799 | 🌐 C | 📅 2026-08-25 - Zephyr
+* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,305 | 🐛 3,807 | 🌐 C | 📅 2026-08-25 - Zephyr
 * [Matter](https://github.com/project-chip/connectedhomeip) ⭐ 8,892 | 🐛 2,806 | 🌐 C++ | 📅 2026-08-25 - Matter
 
 ## Library
@@ -141,7 +141,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *A list of resources dedicated to EspressIf hardware*
 
-* [ESP-IDF](https://github.com/espressif/esp-idf) ⭐ 18,866 | 🐛 1,675 | 🌐 C | 📅 2026-08-24 - Espressif IoT Development Framework
+* [ESP-IDF](https://github.com/espressif/esp-idf) ⭐ 18,866 | 🐛 1,674 | 🌐 C | 📅 2026-08-24 - Espressif IoT Development Framework
 * [EspressIf](https://www.espressif.com/) - Official Website
 * [ESP-32-C3 + Rust + BLE](https://dev.to/theembeddedrustacean/series/26733) - ESP32 Bluetooth w/ Rust Series' Articles
 
