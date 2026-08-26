@@ -12,10 +12,10 @@
             "archived": false,
             "id": 59771425,
             "language": "C",
-            "last_commit": "2026-08-25T00:12:58Z",
+            "last_commit": "2026-08-26T02:44:25Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16305
+            "stars": 16310
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 244694174,
             "language": "C++",
-            "last_commit": "2026-08-25T06:16:28Z",
+            "last_commit": "2026-08-26T04:13:26Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8892
+            "stars": 8897
           }
         }
       ],
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 329225507,
             "language": "C++",
-            "last_commit": "2026-08-21T19:48:43Z",
+            "last_commit": "2026-08-25T23:07:37Z",
             "owner": "simpleble",
             "repo": "simpleble",
-            "stars": 1117
+            "stars": 1118
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 492982151,
             "language": "Python",
-            "last_commit": "2026-08-18T16:57:47Z",
+            "last_commit": "2026-08-25T06:55:50Z",
             "owner": "google",
             "repo": "bumble",
             "stars": 546
@@ -240,10 +240,10 @@
             "archived": false,
             "id": 293227216,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T09:25:24Z",
+            "last_commit": "2026-08-25T21:03:18Z",
             "owner": "JuulLabs",
             "repo": "kable",
-            "stars": 1184
+            "stars": 1185
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-07-10T08:05:18Z",
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2403
+            "stars": 2404
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19856
+            "stars": 19857
           }
         },
         {
@@ -522,10 +522,10 @@
             "archived": false,
             "id": 65899476,
             "language": "C",
-            "last_commit": "2026-08-24T18:51:09Z",
+            "last_commit": "2026-08-25T18:53:29Z",
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 18866
+            "stars": 18874
           }
         }
       ],
@@ -533,7 +533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:59.534Z",
+    "last_updated": "2026-08-26T04:40:32.450Z",
     "original_repository": "dotintent/awesome-ble",
     "original_repository_id": 596031042,
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
