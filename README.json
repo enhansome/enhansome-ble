@@ -12,10 +12,10 @@
             "archived": false,
             "id": 59771425,
             "language": "C",
-            "last_commit": "2026-08-27T11:16:04Z",
+            "last_commit": "2026-08-27T14:29:22Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16322
+            "stars": 16323
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 244694174,
             "language": "C++",
-            "last_commit": "2026-08-27T02:44:31Z",
+            "last_commit": "2026-08-27T14:39:03Z",
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8905
+            "stars": 8906
           }
         }
       ],
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 293227216,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T09:20:48Z",
+            "last_commit": "2026-08-27T12:37:38Z",
             "owner": "JuulLabs",
             "repo": "kable",
             "stars": 1186
@@ -255,7 +255,7 @@
             "archived": false,
             "id": 202539590,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T16:07:06Z",
+            "last_commit": "2026-08-27T15:01:01Z",
             "owner": "Reedyuk",
             "repo": "blue-falcon",
             "stars": 486
@@ -426,7 +426,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19865
+            "stars": 19866
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-27T01:07:48Z",
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 18879
+            "stars": 18880
           }
         }
       ],
@@ -533,7 +533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:27:13.263Z",
+    "last_updated": "2026-08-27T15:01:38.794Z",
     "original_repository_info": {
       "archived": false,
       "id": 596031042,
