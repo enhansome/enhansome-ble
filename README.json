@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+            "homepage": "https://docs.zephyrproject.org",
             "id": 59771425,
             "language": "C",
-            "last_commit": "2026-08-28T11:11:13Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:34:31Z",
+            "open_issues": 3858,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16332
+            "stars": 16338,
+            "topics": [
+              "bluetooth",
+              "bluetooth-le",
+              "embedded",
+              "embedded-c",
+              "iot",
+              "mcu",
+              "microcontroller",
+              "real-time",
+              "rtos",
+              "zephyr",
+              "zephyr-rtos",
+              "zephyros"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -26,12 +44,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+            "homepage": "https://buildwithmatter.com",
             "id": 244694174,
             "language": "C++",
-            "last_commit": "2026-08-28T12:44:55Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:41:25Z",
+            "open_issues": 2805,
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8908
+            "stars": 8909,
+            "topics": [
+              "build-with-matter",
+              "chip",
+              "connected-devices",
+              "connected-home",
+              "connectedhomeip",
+              "connectivity-standards-alliance",
+              "csa-iot",
+              "internet-of-things",
+              "iot",
+              "matter",
+              "standard"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -48,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python interface to Bluetooth LE on Linux",
+            "homepage": null,
             "id": 13698035,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-24T07:01:06Z",
+            "open_issues": 239,
             "owner": "IanHarvey",
             "repo": "bluepy",
-            "stars": 1632
+            "stars": 1632,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -64,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.",
+            "homepage": "http://www.moddable.com",
             "id": 107216551,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-05T19:53:18Z",
+            "open_issues": 85,
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
-            "stars": 1552
+            "stars": 1552,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -80,12 +125,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimpleBLE - the all-in-one Bluetooth library for MacOS, iOS, Windows, Linux and Android.",
+            "homepage": "https://www.simpleble.org",
             "id": 329225507,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T19:58:08Z",
+            "open_issues": 22,
             "owner": "simpleble",
             "repo": "simpleble",
-            "stars": 1118
+            "stars": 1118,
+            "topics": [
+              "android",
+              "asyncio",
+              "bluetooth",
+              "bluez",
+              "c",
+              "cpp",
+              "cross-platform",
+              "dbus",
+              "driver",
+              "ios",
+              "linux",
+              "macos",
+              "platform-independent",
+              "python",
+              "python3",
+              "rust-library",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -96,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://google.github.io/bumble/",
             "id": 492982151,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:17:33Z",
+            "open_issues": 78,
             "owner": "google",
             "repo": "bumble",
-            "stars": 550
+            "stars": 550,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -112,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python wrapper for gatttool (a deprecated tool from BlueZ) and the BGAPI for accessing Bluetooth LE Devices",
+            "homepage": null,
             "id": 19384977,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-13T23:19:00Z",
+            "open_issues": 31,
             "owner": "peplin",
             "repo": "pygatt",
-            "stars": 531
+            "stars": 531,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -128,12 +206,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift Bluetooth library",
+            "homepage": "http://pureswift.github.io/Bluetooth/",
             "id": 55272510,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-07T02:02:54Z",
+            "open_issues": 9,
             "owner": "PureSwift",
             "repo": "Bluetooth",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "bluetooth",
+              "bluetooth-low-energy",
+              "embedded",
+              "gatt",
+              "l2cap",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -150,12 +240,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iOS & OSX Bluetooth library for RxSwift",
+            "homepage": null,
             "id": 55787235,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-05T05:34:14Z",
+            "open_issues": 56,
             "owner": "Polidea",
             "repo": "RxBluetoothKit",
-            "stars": 1435
+            "stars": 1435,
+            "topics": [
+              "ble",
+              "bluetooth",
+              "bluetooth-library",
+              "bluetooth-low-energy",
+              "corebluetooth",
+              "discover-services",
+              "emits",
+              "peripherals",
+              "rssi",
+              "rxswift",
+              "scans",
+              "swift",
+              "swift-library"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -166,12 +275,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OTA DFU Library for Mac and iOS, compatible with nRF5x SoCs",
+            "homepage": "http://www.nordicsemi.com",
             "id": 56493473,
             "language": "Swift",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-10T14:20:14Z",
+            "open_issues": 17,
             "owner": "nordicsemi",
             "repo": "IOS-DFU-Library",
-            "stars": 587
+            "stars": 587,
+            "topics": [
+              "ble",
+              "bluetooth",
+              "bluetooth-le",
+              "bluetooth-low-energy",
+              "bluetoothsmart",
+              "dfu",
+              "nrf51",
+              "nrf52",
+              "ota"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -182,12 +306,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small library that adds concurrency to CoreBluetooth APIs.",
+            "homepage": null,
             "id": 384762376,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-05-30T22:45:54Z",
+            "open_issues": 2,
             "owner": "manolofdez",
             "repo": "AsyncBluetooth",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "bluetooth",
+              "corebluetooth",
+              "ios",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -198,12 +332,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wrapper API for CoreBluetooth using Combine Publishers",
+            "homepage": null,
             "id": 399224695,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-10-31T16:57:45Z",
+            "open_issues": 3,
             "owner": "StarryInternet",
             "repo": "CombineCoreBluetooth",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "bluetooth",
+              "combine",
+              "corebluetooth",
+              "ios",
+              "macos",
+              "reactive-programming",
+              "swift",
+              "tvos",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -214,12 +363,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bluetooth LE Sensor Manager for iOS and macOS",
+            "homepage": null,
             "id": 54212981,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2023-12-18T14:30:24Z",
+            "open_issues": 3,
             "owner": "codeinversion",
             "repo": "sensors-swift",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "ble",
+              "bluetooth-le",
+              "bluetooth-low-energy",
+              "cocoapod",
+              "ios",
+              "macos",
+              "sensors",
+              "swift",
+              "swift-3",
+              "swift3"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -230,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect and communicate with Bluetooth devices.",
+            "homepage": "https://swiftpackageindex.com/StanfordSpezi/SpeziBluetooth/documentation/spezibluetooth",
             "id": 706834978,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-09-13T22:19:09Z",
+            "open_issues": 10,
             "owner": "StanfordSpezi",
             "repo": "SpeziBluetooth",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -252,12 +422,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kotlin Asynchronous Bluetooth Low-Energy",
+            "homepage": "https://juullabs.github.io/kable",
             "id": 293227216,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:37:38Z",
+            "open_issues": 61,
             "owner": "JuulLabs",
             "repo": "kable",
-            "stars": 1186
+            "stars": 1186,
+            "topics": [
+              "android",
+              "apple",
+              "bluetooth-low-energy",
+              "core-bluetooth",
+              "javascript",
+              "kotlin-coroutines",
+              "kotlin-multiplatform",
+              "web-bluetooth"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -268,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kotlin Multiplatform BLE library for iOS, Android, macos, windows and javascript",
+            "homepage": "https://bluefalcon.dev",
             "id": 202539590,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:08:01Z",
+            "open_issues": 5,
             "owner": "Reedyuk",
             "repo": "blue-falcon",
-            "stars": 486
+            "stars": 486,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -290,12 +479,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Bluetooth Low Energy (BLE) Fast Development Framework. It uses simple ways to filter, scan, connect, read ,write, notify, readRssi, setMTU, and multiConnection.",
+            "homepage": null,
             "id": 66323960,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-17T08:58:51Z",
+            "open_issues": 247,
             "owner": "Jasonchenlijian",
             "repo": "FastBle",
-            "stars": 5504
+            "stars": 5504,
+            "topics": [
+              "android",
+              "ble",
+              "blue",
+              "bluetooth"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -306,12 +505,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface",
+            "homepage": "http://polidea.github.io/RxAndroidBle/",
             "id": 51078408,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-06T20:33:07Z",
+            "open_issues": 61,
             "owner": "dariuszseweryn",
             "repo": "RxAndroidBle",
-            "stars": 3541
+            "stars": 3541,
+            "topics": [
+              "android-bluetooth",
+              "android-library",
+              "ble",
+              "bluetooth-le",
+              "bluetooth-low-energy",
+              "rxjava",
+              "rxjava2",
+              "rxjava3"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -322,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library that makes working with Bluetooth LE on Android a pleasure. Seriously.",
+            "homepage": null,
             "id": 114649434,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-10T08:05:18Z",
+            "open_issues": 58,
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2405
+            "stars": 2405,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -338,12 +556,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Multiple samples showing the best practices in connectivity on Android.",
+            "homepage": null,
             "id": 206875901,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-10T15:23:23Z",
+            "open_issues": 169,
             "owner": "android",
             "repo": "connectivity-samples",
-            "stars": 1786
+            "stars": 1786,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -354,12 +577,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Migrated:",
+            "homepage": "https://github.com/android/connectivity",
             "id": 24778596,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-09-10T21:52:23Z",
+            "open_issues": 0,
             "owner": "googlearchive",
             "repo": "android-BluetoothChat",
-            "stars": 1007
+            "stars": 1007,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -370,12 +598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices",
+            "homepage": null,
             "id": 11074870,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-02T15:06:14Z",
+            "open_issues": 1,
             "owner": "movisens",
             "repo": "SmartGattLib",
-            "stars": 286
+            "stars": 286,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -392,12 +625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android, iOS, macOS, Web, Linux, Windows.",
+            "homepage": null,
             "id": 453740140,
             "language": "Dart",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T05:16:19Z",
+            "open_issues": 8,
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
-            "stars": 1003
+            "stars": 1003,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -408,12 +646,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flutter library that handles BLE operations for multiple devices.",
+            "homepage": "https://developers.meethue.com/",
             "id": 216583168,
             "language": "Dart",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T08:51:08Z",
+            "open_issues": 157,
             "owner": "PhilipsHue",
             "repo": "flutter_reactive_ble",
-            "stars": 734
+            "stars": 734,
+            "topics": [
+              "bluetooth",
+              "bluetooth-low-energy",
+              "flutter",
+              "flutter-plugin"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -424,12 +672,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bluetooth Low Energy library for Flutter with support for simulating peripherals",
+            "homepage": null,
             "id": 121622800,
             "language": "Dart",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-29T07:28:27Z",
+            "open_issues": 121,
             "owner": "dotintent",
             "repo": "FlutterBleLib",
-            "stars": 547
+            "stars": 547,
+            "topics": [
+              "ble",
+              "bluetooth-low-energy",
+              "flutter"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -446,12 +703,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+            "homepage": "https://www.bettercap.org/",
             "id": 116576783,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T13:47:49Z",
+            "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19870
+            "stars": 19872,
+            "topics": [
+              "ble",
+              "deauthentication-attack",
+              "dot11",
+              "hacking",
+              "hid",
+              "mitm",
+              "monitoring",
+              "mousejack",
+              "network-attacks",
+              "password-sniffer",
+              "pmkid",
+              "proxy",
+              "redteam",
+              "redteaming",
+              "rogue-ap",
+              "security",
+              "spoofing",
+              "wifi",
+              "wifi-security",
+              "wpa2"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         },
@@ -462,12 +745,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nRF Connect for Desktop application and framework",
+            "homepage": "https://www.nordicsemi.com/Products/Development-tools/nRF-Connect-for-Desktop",
             "id": 80807106,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T10:57:54Z",
+            "open_issues": 6,
             "owner": "nordicsemi",
             "repo": "pc-nrfconnect-launcher",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -484,12 +772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo applications showing off Web Bluetooth",
+            "homepage": "https://webbluetoothcg.github.io/demos/",
             "id": 41744626,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-19T08:20:23Z",
+            "open_issues": 7,
             "owner": "WebBluetoothCG",
             "repo": "demos",
-            "stars": 677
+            "stars": 677,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -506,12 +799,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Bluetooth BR/EDR/LE security resources",
+            "homepage": null,
             "id": 273961365,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-03T22:06:03Z",
+            "open_issues": 0,
             "owner": "engn33r",
             "repo": "awesome-bluetooth-security",
-            "stars": 611
+            "stars": 611,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ble",
+              "bluetooth",
+              "bluetooth-hacking",
+              "bluetooth-low-energy",
+              "bluetooth-security",
+              "penetration-testing",
+              "pentesting",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -528,12 +837,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ArduinoBLE library for Arduino",
+            "homepage": null,
             "id": 157424148,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2026-06-22T12:51:04Z",
+            "open_issues": 135,
             "owner": "arduino-libraries",
             "repo": "ArduinoBLE",
-            "stars": 358
+            "stars": 358,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -550,12 +864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+            "homepage": null,
             "id": 65899476,
             "language": "C",
-            "last_commit": "2026-08-27T21:39:14Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:01:53Z",
+            "open_issues": 1673,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 18894
+            "stars": 18894,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
         }
@@ -564,15 +883,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:57:06.677Z",
+    "last_updated": "2026-08-29T04:55:26.813Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
+      "homepage": null,
       "id": 596031042,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-05-30T08:13:00Z",
+      "open_issues": 2,
       "owner": "dotintent",
       "repo": "awesome-ble",
-      "stars": 146
+      "stars": 146,
+      "topics": [
+        "awesome",
+        "awesome-ble",
+        "awesome-list",
+        "awesome-readme",
+        "ble",
+        "bluetooth",
+        "bluetooth-le",
+        "bluetooth-low-energy"
+      ]
     },
     "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
     "enhanced_repository": "enhansome/enhansome-ble",
