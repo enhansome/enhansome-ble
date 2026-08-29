@@ -16,7 +16,7 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:34:31Z",
-            "open_issues": 3858,
+            "open_issues": 3865,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
             "stars": 16338,
@@ -49,7 +49,7 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:41:25Z",
+            "last_commit": "2026-08-29T05:38:20Z",
             "open_issues": 2805,
             "owner": "project-chip",
             "repo": "connectedhomeip",
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19872,
+            "stars": 19877,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -873,7 +873,7 @@
             "open_issues": 1673,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 18894,
+            "stars": 18895,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -883,7 +883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:26.813Z",
+    "last_updated": "2026-08-29T10:53:05.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
