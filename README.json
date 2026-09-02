@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T01:36:46Z",
-            "open_issues": 3888,
+            "last_commit": "2026-09-02T08:10:01Z",
+            "open_issues": 3862,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16368,
+            "stars": 16376,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,8 +49,8 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T09:01:29Z",
-            "open_issues": 2817,
+            "last_commit": "2026-09-02T04:39:13Z",
+            "open_issues": 2802,
             "owner": "project-chip",
             "repo": "connectedhomeip",
             "stars": 8911,
@@ -113,7 +113,7 @@
             "open_issues": 85,
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
-            "stars": 1552,
+            "stars": 1553,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -130,11 +130,11 @@
             "id": 329225507,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T19:58:08Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-02T06:13:51Z",
+            "open_issues": 21,
             "owner": "simpleble",
             "repo": "simpleble",
-            "stars": 1121,
+            "stars": 1123,
             "topics": [
               "android",
               "asyncio",
@@ -427,11 +427,11 @@
             "id": 293227216,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T20:41:45Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-01T09:20:18Z",
+            "open_issues": 61,
             "owner": "JuulLabs",
             "repo": "kable",
-            "stars": 1188,
+            "stars": 1189,
             "topics": [
               "android",
               "apple",
@@ -457,8 +457,8 @@
             "id": 202539590,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T08:58:15Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-01T12:00:15Z",
+            "open_issues": 3,
             "owner": "Reedyuk",
             "repo": "blue-falcon",
             "stars": 485,
@@ -488,7 +488,7 @@
             "open_issues": 247,
             "owner": "Jasonchenlijian",
             "repo": "FastBle",
-            "stars": 5504,
+            "stars": 5503,
             "topics": [
               "android",
               "ble",
@@ -544,7 +544,7 @@
             "open_issues": 58,
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2406,
+            "stars": 2407,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19916,
+            "stars": 19923,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -869,11 +869,11 @@
             "id": 65899476,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T18:17:13Z",
-            "open_issues": 1682,
+            "last_commit": "2026-09-01T15:54:29Z",
+            "open_issues": 1681,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 18916,
+            "stars": 18924,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -883,7 +883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:14:49.537Z",
+    "last_updated": "2026-09-02T08:30:21.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
