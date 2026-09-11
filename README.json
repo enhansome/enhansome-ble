@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T08:21:45Z",
-            "open_issues": 3808,
+            "last_commit": "2026-09-11T00:06:23Z",
+            "open_issues": 3829,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16466,
+            "stars": 16482,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,11 +49,11 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T05:45:09Z",
-            "open_issues": 2822,
+            "last_commit": "2026-09-11T07:44:27Z",
+            "open_issues": 2801,
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8944,
+            "stars": 8947,
             "topics": [
               "build-with-matter",
               "chip",
@@ -110,7 +110,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-09-05T00:25:29Z",
-            "open_issues": 72,
+            "open_issues": 71,
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
             "stars": 1552,
@@ -134,7 +134,7 @@
             "open_issues": 21,
             "owner": "simpleble",
             "repo": "simpleble",
-            "stars": 1129,
+            "stars": 1131,
             "topics": [
               "android",
               "asyncio",
@@ -169,11 +169,11 @@
             "id": 492982151,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T17:01:35Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-11T00:36:14Z",
+            "open_issues": 77,
             "owner": "google",
             "repo": "bumble",
-            "stars": 554,
+            "stars": 555,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -427,11 +427,11 @@
             "id": 293227216,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T09:17:50Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-10T09:28:05Z",
+            "open_issues": 64,
             "owner": "JuulLabs",
             "repo": "kable",
-            "stars": 1192,
+            "stars": 1193,
             "topics": [
               "android",
               "apple",
@@ -514,7 +514,7 @@
             "open_issues": 61,
             "owner": "dariuszseweryn",
             "repo": "RxAndroidBle",
-            "stars": 3541,
+            "stars": 3542,
             "topics": [
               "android-bluetooth",
               "android-library",
@@ -544,7 +544,7 @@
             "open_issues": 60,
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2410,
+            "stars": 2411,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -655,7 +655,7 @@
             "open_issues": 158,
             "owner": "PhilipsHue",
             "repo": "flutter_reactive_ble",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "bluetooth",
               "bluetooth-low-energy",
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19954,
+            "stars": 19963,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -785,6 +785,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
+        },
+        {
+          "node_type": "item",
+          "title": "niimbot-web-bluetooth",
+          "description": "Zero-dependency Web Bluetooth driver for NIIMBOT thermal label printers, with reverse-engineered protocol documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zero-dependency Web Bluetooth driver + reverse-engineered protocol docs to print Niimbot label printers straight from the browser — no app. Validated on B1, B1 Pro, B2 Pro, M2-H, D11_H, D110 and N1.",
+            "homepage": "https://iscarelli.github.io/niimbot-web-bluetooth/demo/",
+            "id": 1258612466,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-11T03:32:53Z",
+            "open_issues": 0,
+            "owner": "iscarelli",
+            "repo": "niimbot-web-bluetooth",
+            "stars": 21,
+            "topics": [
+              "ble",
+              "bluetooth",
+              "bluetooth-low-energy",
+              "browser",
+              "gatt",
+              "javascript",
+              "label-printer",
+              "label-printing",
+              "niimbot",
+              "niimbot-b1",
+              "niimbot-b1-pro",
+              "niimbot-b2-pro",
+              "niimbot-d110",
+              "niimbot-m2h",
+              "niimbot-n1",
+              "printing",
+              "reverse-engineering",
+              "thermal-printer",
+              "web-bluetooth",
+              "zero-dependency"
+            ]
+          },
+          "first_seen": "2026-09-11T08:41:29.317Z"
         }
       ],
       "title": "Web"
@@ -808,7 +850,7 @@
             "open_issues": 0,
             "owner": "engn33r",
             "repo": "awesome-bluetooth-security",
-            "stars": 614,
+            "stars": 615,
             "topics": [
               "awesome",
               "awesome-list",
@@ -869,11 +911,11 @@
             "id": 65899476,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T17:38:09Z",
+            "last_commit": "2026-09-10T20:45:38Z",
             "open_issues": 1677,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 18983,
+            "stars": 18989,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -883,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:42:47.279Z",
+    "last_updated": "2026-09-11T08:41:29.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
@@ -891,7 +933,7 @@
       "id": 596031042,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2025-05-30T08:13:00Z",
+      "last_commit": "2026-09-11T06:25:23Z",
       "open_issues": 2,
       "owner": "dotintent",
       "repo": "awesome-ble",
@@ -907,7 +949,7 @@
         "bluetooth-low-energy"
       ]
     },
-    "original_repository_sha": "a128934b017fedc72f6be6eca25b5d821e31794b",
+    "original_repository_sha": "0536bd4a0a1a7257ecd5aa457b8a85f0614eba33",
     "enhanced_repository": "enhansome/enhansome-ble",
     "enhanced_repository_description": null,
     "title": "Awesome BLE with stars"
