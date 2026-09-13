@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T22:53:39Z",
-            "open_issues": 3827,
+            "last_commit": "2026-09-12T20:55:42Z",
+            "open_issues": 3833,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16489,
+            "stars": 16498,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,8 +49,8 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T04:47:51Z",
-            "open_issues": 2787,
+            "last_commit": "2026-09-13T01:01:51Z",
+            "open_issues": 2791,
             "owner": "project-chip",
             "repo": "connectedhomeip",
             "stars": 8950,
@@ -110,7 +110,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-09-05T00:25:29Z",
-            "open_issues": 71,
+            "open_issues": 70,
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
             "stars": 1552,
@@ -655,7 +655,7 @@
             "open_issues": 158,
             "owner": "PhilipsHue",
             "repo": "flutter_reactive_ble",
-            "stars": 736,
+            "stars": 737,
             "topics": [
               "bluetooth",
               "bluetooth-low-energy",
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19970,
+            "stars": 19971,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -798,11 +798,11 @@
             "id": 1258612466,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T18:00:44Z",
+            "last_commit": "2026-09-12T18:49:21Z",
             "open_issues": 0,
             "owner": "iscarelli",
             "repo": "niimbot-web-bluetooth",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "ble",
               "bluetooth",
@@ -912,10 +912,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T17:51:10Z",
-            "open_issues": 1684,
+            "open_issues": 1686,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 18998,
+            "stars": 19006,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:26:45.198Z",
+    "last_updated": "2026-09-13T09:10:33.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
