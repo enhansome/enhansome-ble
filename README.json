@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T22:57:17Z",
-            "open_issues": 3953,
+            "last_commit": "2026-09-17T23:47:42Z",
+            "open_issues": 3939,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16546,
+            "stars": 16559,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,7 +49,7 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T07:50:03Z",
+            "last_commit": "2026-09-18T03:11:58Z",
             "open_issues": 2846,
             "owner": "project-chip",
             "repo": "connectedhomeip",
@@ -173,7 +173,7 @@
             "open_issues": 78,
             "owner": "google",
             "repo": "bumble",
-            "stars": 555,
+            "stars": 556,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -284,7 +284,7 @@
             "open_issues": 18,
             "owner": "nordicsemi",
             "repo": "IOS-DFU-Library",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "ble",
               "bluetooth",
@@ -431,7 +431,7 @@
             "open_issues": 66,
             "owner": "JuulLabs",
             "repo": "kable",
-            "stars": 1195,
+            "stars": 1196,
             "topics": [
               "android",
               "apple",
@@ -457,8 +457,8 @@
             "id": 202539590,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T10:11:25Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-18T06:24:52Z",
+            "open_issues": 1,
             "owner": "Reedyuk",
             "repo": "blue-falcon",
             "stars": 489,
@@ -634,7 +634,7 @@
             "open_issues": 8,
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
-            "stars": 1005,
+            "stars": 1006,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -652,7 +652,7 @@
             "language": "Dart",
             "license": "NOASSERTION",
             "last_commit": "2026-08-24T08:51:08Z",
-            "open_issues": 158,
+            "open_issues": 159,
             "owner": "PhilipsHue",
             "repo": "flutter_reactive_ble",
             "stars": 737,
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19992,
+            "stars": 19994,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -750,8 +750,8 @@
             "id": 80807106,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T15:04:28Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-17T21:45:13Z",
+            "open_issues": 8,
             "owner": "nordicsemi",
             "repo": "pc-nrfconnect-launcher",
             "stars": 225,
@@ -911,11 +911,11 @@
             "id": 65899476,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:25:31Z",
-            "open_issues": 1675,
+            "last_commit": "2026-09-18T06:24:31Z",
+            "open_issues": 1677,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 19035,
+            "stars": 19047,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:16:36.298Z",
+    "last_updated": "2026-09-18T08:51:40.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
