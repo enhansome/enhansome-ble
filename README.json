@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T06:40:56Z",
-            "open_issues": 3882,
+            "last_commit": "2026-09-26T15:35:14Z",
+            "open_issues": 3908,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16613,
+            "stars": 16624,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,11 +49,11 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T05:43:00Z",
-            "open_issues": 2863,
+            "last_commit": "2026-09-27T09:05:35Z",
+            "open_issues": 2861,
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8952,
+            "stars": 8954,
             "topics": [
               "build-with-matter",
               "chip",
@@ -488,7 +488,7 @@
             "open_issues": 247,
             "owner": "Jasonchenlijian",
             "repo": "FastBle",
-            "stars": 5504,
+            "stars": 5505,
             "topics": [
               "android",
               "ble",
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 20028,
+            "stars": 20029,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -885,7 +885,7 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2026-06-22T12:51:04Z",
-            "open_issues": 136,
+            "open_issues": 135,
             "owner": "arduino-libraries",
             "repo": "ArduinoBLE",
             "stars": 360,
@@ -912,10 +912,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T17:46:20Z",
-            "open_issues": 1693,
+            "open_issues": 1697,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 19090,
+            "stars": 19100,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:12:11.494Z",
+    "last_updated": "2026-09-27T09:52:08.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
