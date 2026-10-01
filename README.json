@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T09:09:26Z",
-            "open_issues": 3951,
+            "last_commit": "2026-10-01T03:39:01Z",
+            "open_issues": 3967,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16650,
+            "stars": 16661,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,11 +49,11 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T01:41:54Z",
-            "open_issues": 2894,
+            "last_commit": "2026-10-01T10:43:24Z",
+            "open_issues": 2904,
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8954,
+            "stars": 8956,
             "topics": [
               "build-with-matter",
               "chip",
@@ -89,7 +89,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2024-06-24T07:01:06Z",
-            "open_issues": 239,
+            "open_issues": 238,
             "owner": "IanHarvey",
             "repo": "bluepy",
             "stars": 1633,
@@ -130,7 +130,7 @@
             "id": 329225507,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T21:29:30Z",
+            "last_commit": "2026-10-01T06:02:20Z",
             "open_issues": 21,
             "owner": "simpleble",
             "repo": "simpleble",
@@ -249,7 +249,7 @@
             "open_issues": 56,
             "owner": "Polidea",
             "repo": "RxBluetoothKit",
-            "stars": 1436,
+            "stars": 1435,
             "topics": [
               "ble",
               "bluetooth",
@@ -461,7 +461,7 @@
             "open_issues": 5,
             "owner": "Reedyuk",
             "repo": "blue-falcon",
-            "stars": 489,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -586,7 +586,7 @@
             "open_issues": 0,
             "owner": "googlearchive",
             "repo": "android-BluetoothChat",
-            "stars": 1006,
+            "stars": 1007,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -630,7 +630,7 @@
             "id": 453740140,
             "language": "Dart",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T00:28:10Z",
+            "last_commit": "2026-10-01T03:56:36Z",
             "open_issues": 9,
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 20041,
+            "stars": 20043,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -781,7 +781,7 @@
             "open_issues": 7,
             "owner": "WebBluetoothCG",
             "repo": "demos",
-            "stars": 677,
+            "stars": 678,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -911,11 +911,11 @@
             "id": 65899476,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T17:04:53Z",
-            "open_issues": 1703,
+            "last_commit": "2026-09-30T19:13:53Z",
+            "open_issues": 1706,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 19124,
+            "stars": 19131,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:19:38.252Z",
+    "last_updated": "2026-10-01T10:46:07.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
