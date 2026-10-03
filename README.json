@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T03:11:34Z",
-            "open_issues": 4036,
+            "last_commit": "2026-10-03T08:05:54Z",
+            "open_issues": 4016,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16676,
+            "stars": 16677,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,7 +49,7 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T00:58:10Z",
+            "last_commit": "2026-10-03T09:21:31Z",
             "open_issues": 2915,
             "owner": "project-chip",
             "repo": "connectedhomeip",
@@ -284,7 +284,7 @@
             "open_issues": 17,
             "owner": "nordicsemi",
             "repo": "IOS-DFU-Library",
-            "stars": 591,
+            "stars": 592,
             "topics": [
               "ble",
               "bluetooth",
@@ -457,8 +457,8 @@
             "id": 202539590,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:20:55Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-03T06:25:37Z",
+            "open_issues": 0,
             "owner": "Reedyuk",
             "repo": "blue-falcon",
             "stars": 488,
@@ -544,7 +544,7 @@
             "open_issues": 61,
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2414,
+            "stars": 2415,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -630,7 +630,7 @@
             "id": 453740140,
             "language": "Dart",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T03:56:36Z",
+            "last_commit": "2026-10-03T07:01:31Z",
             "open_issues": 9,
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 20052,
+            "stars": 20054,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -915,7 +915,7 @@
             "open_issues": 1713,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 19142,
+            "stars": 19141,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:01.260Z",
+    "last_updated": "2026-10-03T09:43:03.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
