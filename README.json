@@ -16,7 +16,7 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T08:13:02Z",
-            "open_issues": 4123,
+            "open_issues": 4124,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
             "stars": 16700,
@@ -49,7 +49,7 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:22:13Z",
+            "last_commit": "2026-10-06T11:03:53Z",
             "open_issues": 2935,
             "owner": "project-chip",
             "repo": "connectedhomeip",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:46:54.240Z",
+    "last_updated": "2026-10-06T11:09:17.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",

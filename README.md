@@ -57,7 +57,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *Framework useful to develop your BLE peripherals.*
 
-* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,700 | 🐛 4,123 | 🌐 C | 📅 2026-10-06 - Zephyr
+* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,700 | 🐛 4,124 | 🌐 C | 📅 2026-10-06 - Zephyr
 * [Matter](https://github.com/project-chip/connectedhomeip) ⭐ 8,957 | 🐛 2,935 | 🌐 C++ | 📅 2026-10-06 - Matter
 
 ## Library
