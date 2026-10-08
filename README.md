@@ -57,17 +57,17 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *Framework useful to develop your BLE peripherals.*
 
-* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,705 | 🐛 4,146 | 🌐 C | 📅 2026-10-07 - Zephyr
-* [Matter](https://github.com/project-chip/connectedhomeip) ⭐ 8,958 | 🐛 2,928 | 🌐 C++ | 📅 2026-10-07 - Matter
+* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,714 | 🐛 4,184 | 🌐 C | 📅 2026-10-08 - Zephyr
+* [Matter](https://github.com/project-chip/connectedhomeip) ⭐ 8,959 | 🐛 2,924 | 🌐 C++ | 📅 2026-10-08 - Matter
 
 ## Library
 
 *Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) functionality into various platforms, including mobile, embedded systems, and IoT devices.*
 
 * [bluepy](https://github.com/IanHarvey/bluepy) ⭐ 1,633 | 🐛 238 | 🌐 C | 📅 2024-06-24 - A Python interface for Bluetooth LE on Linux.
-* [Moddable](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,559 | 🐛 111 | 🌐 C | 📅 2026-09-05 - JavaScript libraries and tools for microcontrollers development. Includes BLE functionality.
+* [Moddable](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,561 | 🐛 111 | 🌐 C | 📅 2026-09-05 - JavaScript libraries and tools for microcontrollers development. Includes BLE functionality.
 * [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) ⭐ 1,138 | 🐛 21 | 🌐 C++ | 📅 2026-10-06 - The all-in-one C/C++/Python/Rust Bluetooth LE library for MacOS, iOS, Windows, and Linux.
-* [bumble](https://github.com/google/bumble) ⭐ 563 | 🐛 75 | 🌐 Python | 📅 2026-10-05 - Bumble is a full-featured Bluetooth stack written entirely in Python.
+* [bumble](https://github.com/google/bumble) ⭐ 564 | 🐛 75 | 🌐 Python | 📅 2026-10-05 - Bumble is a full-featured Bluetooth stack written entirely in Python.
 * [pygatt](https://github.com/peplin/pygatt) ⚠️ Archived - A Python library for interacting with BLE devices.
 * [Bluetooth](https://github.com/PureSwift/Bluetooth) ⭐ 234 | 🐛 9 | 🌐 Swift | 📅 2026-08-07 - Bluetooth is a Swift multiplatform package with multiple libraries supporting the Bluetooth SIG specifications.
 * [bluez](http://www.bluez.org/) - The official Linux Bluetooth protocol stack.
@@ -77,18 +77,18 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 *iOS libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices.*
 
 * [Rx Bluetooth Kit](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,435 | 🐛 56 | 🌐 Swift | 📅 2024-03-05 - RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant using RxSwift.
-* [iOS DFU Library](https://github.com/NordicSemiconductor/IOS-DFU-Library) ⭐ 592 | 🐛 17 | 🌐 Swift | 📅 2026-09-19 - DFU application allows to flash new firmware on the DK.
+* [iOS DFU Library](https://github.com/NordicSemiconductor/IOS-DFU-Library) ⭐ 593 | 🐛 17 | 🌐 Swift | 📅 2026-09-19 - DFU application allows to flash new firmware on the DK.
 * [AsyncBluetooth](https://github.com/manolofdez/AsyncBluetooth) ⭐ 202 | 🐛 2 | 🌐 Swift | 📅 2026-05-30 - A small library that adds concurrency to CoreBluetooth APIs.
 * [CombineCoreBluetooth](https://github.com/StarryInternet/CombineCoreBluetooth) ⭐ 141 | 🐛 3 | 🌐 Swift | 📅 2024-10-31 - CombineCoreBluetooth is a library that bridges Apple's CoreBluetooth framework and Apple's Combine framework.
 * [Swifty Sensors](https://github.com/codeinversion/sensors-swift) ⭐ 60 | 🐛 3 | 🌐 Swift | 📅 2023-12-18 - Bluetooth LE Sensor Manager for iOS and macOS.
-* [SpeziBluetooth](https://github.com/StanfordSpezi/SpeziBluetooth) ⭐ 20 | 🐛 10 | 🌐 Swift | 📅 2025-09-13 - Connect and communicate with Bluetooth devices using modern programming paradigms.
+* [SpeziBluetooth](https://github.com/StanfordSpezi/SpeziBluetooth) ⭐ 20 | 🐛 10 | 🌐 Swift | 📅 2026-10-08 - Connect and communicate with Bluetooth devices using modern programming paradigms.
 
 ## KMM
 
 *Resources and libraries for building Bluetooth Low Energy (BLE) applications using the Kotlin Multiplatform Mobile (KMM) framework.*
 
-* [Kable](https://github.com/JuulLabs/kable) ⭐ 1,197 | 🐛 71 | 🌐 Kotlin | 📅 2026-10-05 - Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
-* [BlueFalcon](https://github.com/Reedyuk/blue-falcon) ⭐ 488 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-06 - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android.
+* [Kable](https://github.com/JuulLabs/kable) ⭐ 1,197 | 🐛 73 | 🌐 Kotlin | 📅 2026-10-08 - Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
+* [BlueFalcon](https://github.com/Reedyuk/blue-falcon) ⭐ 488 | 🐛 5 | 🌐 Kotlin | 📅 2026-10-08 - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android.
 
 ## Android
 
@@ -96,7 +96,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 * [FastBle](https://github.com/Jasonchenlijian/FastBle) ⭐ 5,506 | 🐛 247 | 🌐 Java | 📅 2026-04-17 - An Android Bluetooth Low Energy (BLE) fast development framework.
 * [RxAndroidBle](https://github.com/dariuszseweryn/RxAndroidBle) ⭐ 3,540 | 🐛 61 | 🌐 Java | 📅 2025-06-06 - An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface.
-* [Nordic Semiconductor BLE SDK for Android](https://github.com/NordicSemiconductor/Android-BLE-Library) ⭐ 2,416 | 🐛 61 | 🌐 Java | 📅 2026-07-10 - Official Bluetooth Low Energy SDK provided by Nordic Semiconductor for Android development.
+* [Nordic Semiconductor BLE SDK for Android](https://github.com/NordicSemiconductor/Android-BLE-Library) ⭐ 2,417 | 🐛 61 | 🌐 Java | 📅 2026-07-10 - Official Bluetooth Low Energy SDK provided by Nordic Semiconductor for Android development.
 * [Android BluetoothGatt Sample](https://github.com/android/connectivity-samples/tree/main/BluetoothLeGatt) ⚠️ Archived - An example application demonstrating how to use BluetoothGatt API on Android.
 * [android-BluetoothChat](https://github.com/googlesamples/android-BluetoothChat) ⚠️ Archived - An Android Bluetooth chat application.
 * [SmartGattLib](https://github.com/movisens/SmartGattLib) ⭐ 286 | 🐛 1 | 🌐 Java | 📅 2026-07-02 - SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0). It provides all UUIDs of the adopted GATT specification and an convenient way to interpret the characteristics (e.g. Heart Rate, BatteryLevel).
@@ -113,8 +113,8 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *Development and testing tools for Bluetooth Low Energy (BLE) applications, including analyzers, debuggers, and simulators.*
 
-* [Bettercap](https://github.com/bettercap/bettercap) ⭐ 20,105 | 🐛 44 | 🌐 Go | 📅 2026-08-13 - A easily extensible and portable framework for security researchers to test BLE security.
-* [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core) ⭐ 225 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-04 - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
+* [Bettercap](https://github.com/bettercap/bettercap) ⭐ 20,111 | 🐛 44 | 🌐 Go | 📅 2026-08-13 - A easily extensible and portable framework for security researchers to test BLE security.
+* [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core) ⭐ 225 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-08 - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
 * [BLE Simulator](https://play.google.com/store/apps/details?id=com.withintent.ble.simulator\&hl=en) - A mobile app able to clone BLE devices and script their interaction. Useful to debug and quick prototyping.
 * [PacketLogger](https://www.bluetooth.com/blog/a-new-way-to-debug-iosbluetooth-applications/) - A macOS tool to capture BLE packets and HCI logs from iOS devices, useful for debugging Bluetooth communication and protocol issues.
 
@@ -122,14 +122,14 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *Web-based resources, frameworks, and tools for building Bluetooth Low Energy (BLE) applications using JavaScript and web technologies.*
 
-* [Web Bluetooth Samples](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 - A collection of Web Bluetooth API usage examples.
-* [niimbot-web-bluetooth](https://github.com/iscarelli/niimbot-web-bluetooth) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-12 - Zero-dependency Web Bluetooth driver for NIIMBOT thermal label printers, with reverse-engineered protocol documentation.
+* [Web Bluetooth Samples](https://github.com/WebBluetoothCG/demos) ⭐ 676 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 - A collection of Web Bluetooth API usage examples.
+* [niimbot-web-bluetooth](https://github.com/iscarelli/niimbot-web-bluetooth) ⭐ 34 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-07 - Zero-dependency Web Bluetooth driver for NIIMBOT thermal label printers, with reverse-engineered protocol documentation.
 
 ## Security
 
 *Security related resources around BLE.*
 
-* [Awesome Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security) ⭐ 616 | 🐛 0 | 📅 2025-10-03 - An awesome repo related to Bluetooth (and also BLE) realted security
+* [Awesome Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security) ⭐ 615 | 🐛 0 | 📅 2025-10-03 - An awesome repo related to Bluetooth (and also BLE) realted security
 
 ## Arduino
 
@@ -142,7 +142,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *A list of resources dedicated to EspressIf hardware*
 
-* [ESP-IDF](https://github.com/espressif/esp-idf) ⭐ 19,173 | 🐛 1,728 | 🌐 C | 📅 2026-10-06 - Espressif IoT Development Framework
+* [ESP-IDF](https://github.com/espressif/esp-idf) ⭐ 19,176 | 🐛 1,721 | 🌐 C | 📅 2026-10-07 - Espressif IoT Development Framework
 * [EspressIf](https://www.espressif.com/) - Official Website
 * [ESP-32-C3 + Rust + BLE](https://dev.to/theembeddedrustacean/series/26733) - ESP32 Bluetooth w/ Rust Series' Articles
 
@@ -175,4 +175,4 @@ Thank you to all [contributors](https://github.com/dotintent/awesome-ble/graphs/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
