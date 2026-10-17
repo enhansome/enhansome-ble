@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T07:21:54Z",
-            "open_issues": 4389,
+            "last_commit": "2026-10-16T20:53:08Z",
+            "open_issues": 4430,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16805,
+            "stars": 16813,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,11 +49,11 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T08:14:00Z",
-            "open_issues": 2927,
+            "last_commit": "2026-10-17T05:32:07Z",
+            "open_issues": 2923,
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8969,
+            "stars": 8970,
             "topics": [
               "build-with-matter",
               "chip",
@@ -109,8 +109,8 @@
             "id": 107216551,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-13T05:10:32Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-16T22:23:59Z",
+            "open_issues": 82,
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
             "stars": 1563,
@@ -130,7 +130,7 @@
             "id": 329225507,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T06:07:01Z",
+            "last_commit": "2026-10-16T23:17:00Z",
             "open_issues": 22,
             "owner": "simpleble",
             "repo": "simpleble",
@@ -170,10 +170,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T08:35:30Z",
-            "open_issues": 75,
+            "open_issues": 79,
             "owner": "google",
             "repo": "bumble",
-            "stars": 568,
+            "stars": 570,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -427,11 +427,11 @@
             "id": 293227216,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T09:28:28Z",
+            "last_commit": "2026-10-16T09:28:36Z",
             "open_issues": 77,
             "owner": "JuulLabs",
             "repo": "kable",
-            "stars": 1199,
+            "stars": 1201,
             "topics": [
               "android",
               "apple",
@@ -457,11 +457,11 @@
             "id": 202539590,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T12:25:25Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-17T04:11:35Z",
+            "open_issues": 1,
             "owner": "Reedyuk",
             "repo": "blue-falcon",
-            "stars": 488,
+            "stars": 489,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 20149,
+            "stars": 20150,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -754,7 +754,7 @@
             "open_issues": 9,
             "owner": "nordicsemi",
             "repo": "pc-nrfconnect-launcher",
-            "stars": 226,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -911,11 +911,11 @@
             "id": 65899476,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T06:21:18Z",
-            "open_issues": 1739,
+            "last_commit": "2026-10-16T19:03:53Z",
+            "open_issues": 1747,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 19258,
+            "stars": 19262,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T08:48:27.296Z",
+    "last_updated": "2026-10-17T08:19:03.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
