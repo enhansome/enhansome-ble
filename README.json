@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T20:04:57Z",
-            "open_issues": 4461,
+            "last_commit": "2026-10-19T08:32:37Z",
+            "open_issues": 4467,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16816,
+            "stars": 16830,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,11 +49,11 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T00:58:13Z",
-            "open_issues": 2922,
+            "last_commit": "2026-10-19T00:57:54Z",
+            "open_issues": 2924,
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8969,
+            "stars": 8972,
             "topics": [
               "build-with-matter",
               "chip",
@@ -110,7 +110,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-10-16T22:23:59Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
             "stars": 1563,
@@ -130,8 +130,8 @@
             "id": 329225507,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T05:16:28Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-19T05:50:53Z",
+            "open_issues": 22,
             "owner": "simpleble",
             "repo": "simpleble",
             "stars": 1139,
@@ -169,8 +169,8 @@
             "id": 492982151,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T08:35:30Z",
-            "open_issues": 81,
+            "last_commit": "2026-10-19T09:30:29Z",
+            "open_issues": 80,
             "owner": "google",
             "repo": "bumble",
             "stars": 570,
@@ -427,7 +427,7 @@
             "id": 293227216,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T09:28:36Z",
+            "last_commit": "2026-10-19T09:36:14Z",
             "open_issues": 77,
             "owner": "JuulLabs",
             "repo": "kable",
@@ -565,7 +565,7 @@
             "open_issues": 169,
             "owner": "android",
             "repo": "connectivity-samples",
-            "stars": 1789,
+            "stars": 1790,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -634,7 +634,7 @@
             "open_issues": 8,
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
-            "stars": 1006,
+            "stars": 1007,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -712,7 +712,7 @@
             "open_issues": 44,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 20155,
+            "stars": 20161,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -802,7 +802,7 @@
             "open_issues": 1,
             "owner": "iscarelli",
             "repo": "niimbot-web-bluetooth",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "ble",
               "bluetooth",
@@ -847,7 +847,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-10-03T22:06:03Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "engn33r",
             "repo": "awesome-bluetooth-security",
             "stars": 619,
@@ -915,7 +915,7 @@
             "open_issues": 1753,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 19267,
+            "stars": 19279,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:38:28.795Z",
+    "last_updated": "2026-10-19T09:40:21.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
