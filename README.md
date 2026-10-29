@@ -57,8 +57,8 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *Framework useful to develop your BLE peripherals.*
 
-* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,931 | 🐛 5,010 | 🌐 C | 📅 2026-10-28 - Zephyr
-* [Matter](https://github.com/project-chip/connectedhomeip) ⭐ 8,975 | 🐛 2,896 | 🌐 C++ | 📅 2026-10-28 - Matter
+* [Zephyr](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,942 | 🐛 4,726 | 🌐 C | 📅 2026-10-29 - Zephyr
+* [Matter](https://github.com/project-chip/connectedhomeip) ⭐ 8,976 | 🐛 2,905 | 🌐 C++ | 📅 2026-10-29 - Matter
 
 ## Library
 
@@ -66,8 +66,8 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 * [bluepy](https://github.com/IanHarvey/bluepy) ⭐ 1,635 | 🐛 238 | 🌐 C | 📅 2024-06-24 - A Python interface for Bluetooth LE on Linux.
 * [Moddable](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,569 | 🐛 80 | 🌐 C | 📅 2026-10-16 - JavaScript libraries and tools for microcontrollers development. Includes BLE functionality.
-* [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) ⭐ 1,142 | 🐛 13 | 🌐 C++ | 📅 2026-10-28 - The all-in-one C/C++/Python/Rust Bluetooth LE library for MacOS, iOS, Windows, and Linux.
-* [bumble](https://github.com/google/bumble) ⭐ 579 | 🐛 84 | 🌐 Python | 📅 2026-10-23 - Bumble is a full-featured Bluetooth stack written entirely in Python.
+* [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) ⭐ 1,142 | 🐛 14 | 🌐 C++ | 📅 2026-10-29 - The all-in-one C/C++/Python/Rust Bluetooth LE library for MacOS, iOS, Windows, and Linux.
+* [bumble](https://github.com/google/bumble) ⭐ 579 | 🐛 85 | 🌐 Python | 📅 2026-10-23 - Bumble is a full-featured Bluetooth stack written entirely in Python.
 * [pygatt](https://github.com/peplin/pygatt) ⚠️ Archived - A Python library for interacting with BLE devices.
 * [Bluetooth](https://github.com/PureSwift/Bluetooth) ⭐ 234 | 🐛 9 | 🌐 Swift | 📅 2026-08-07 - Bluetooth is a Swift multiplatform package with multiple libraries supporting the Bluetooth SIG specifications.
 * [bluez](http://www.bluez.org/) - The official Linux Bluetooth protocol stack.
@@ -87,7 +87,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *Resources and libraries for building Bluetooth Low Energy (BLE) applications using the Kotlin Multiplatform Mobile (KMM) framework.*
 
-* [Kable](https://github.com/JuulLabs/kable) ⭐ 1,203 | 🐛 81 | 🌐 Kotlin | 📅 2026-10-27 - Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
+* [Kable](https://github.com/JuulLabs/kable) ⭐ 1,203 | 🐛 81 | 🌐 Kotlin | 📅 2026-10-29 - Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
 * [BlueFalcon](https://github.com/Reedyuk/blue-falcon) ⭐ 489 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-17 - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android.
 
 ## Android
@@ -105,7 +105,7 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *Flutter libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications using the Flutter framework for both iOS and Android.*
 
-* [Flutter Blue Plus](https://github.com/boskokg/flutter_blue_plus) ⭐ 1,008 | 🐛 11 | 🌐 Dart | 📅 2026-10-03 - Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
+* [Flutter Blue Plus](https://github.com/boskokg/flutter_blue_plus) ⭐ 1,009 | 🐛 11 | 🌐 Dart | 📅 2026-10-03 - Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
 * [Flutter Reactive BLE](https://github.com/PhilipsHue/flutter_reactive_ble) ⭐ 740 | 🐛 166 | 🌐 Dart | 📅 2026-10-22 - Flutter Reactive BLE is a Flutter library that handles BLE operations for multiple devices.
 * [Flutter BLELib](https://github.com/dotintent/FlutterBleLib) ⭐ 547 | 🐛 121 | 🌐 Dart | 📅 2024-07-29 - Bluetooth Low Energy library for Flutter with support for simulating peripherals.
 
@@ -113,8 +113,8 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *Development and testing tools for Bluetooth Low Energy (BLE) applications, including analyzers, debuggers, and simulators.*
 
-* [Bettercap](https://github.com/bettercap/bettercap) ⭐ 20,208 | 🐛 50 | 🌐 Go | 📅 2026-10-26 - A easily extensible and portable framework for security researchers to test BLE security.
-* [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core) ⭐ 230 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-28 - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
+* [Bettercap](https://github.com/bettercap/bettercap) ⭐ 20,212 | 🐛 50 | 🌐 Go | 📅 2026-10-26 - A easily extensible and portable framework for security researchers to test BLE security.
+* [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core) ⭐ 230 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-29 - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
 * [BLE Simulator](https://play.google.com/store/apps/details?id=com.withintent.ble.simulator\&hl=en) - A mobile app able to clone BLE devices and script their interaction. Useful to debug and quick prototyping.
 * [PacketLogger](https://www.bluetooth.com/blog/a-new-way-to-debug-iosbluetooth-applications/) - A macOS tool to capture BLE packets and HCI logs from iOS devices, useful for debugging Bluetooth communication and protocol issues.
 
@@ -135,14 +135,14 @@ A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](
 
 *A list of resources dedicated to Arduino hardware*
 
-* [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) ⭐ 363 | 🐛 135 | 🌐 C++ | 📅 2026-09-27 - ArduinoBLE library for Arduino
+* [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) ⭐ 364 | 🐛 135 | 🌐 C++ | 📅 2026-09-27 - ArduinoBLE library for Arduino
 * [Arduino](https://store.arduino.cc/) - Official website
 
 ## ESP
 
 *A list of resources dedicated to EspressIf hardware*
 
-* [ESP-IDF](https://github.com/espressif/esp-idf) ⭐ 19,366 | 🐛 1,771 | 🌐 C | 📅 2026-10-27 - Espressif IoT Development Framework
+* [ESP-IDF](https://github.com/espressif/esp-idf) ⭐ 19,372 | 🐛 1,772 | 🌐 C | 📅 2026-10-28 - Espressif IoT Development Framework
 * [EspressIf](https://www.espressif.com/) - Official Website
 * [ESP-32-C3 + Rust + BLE](https://dev.to/theembeddedrustacean/series/26733) - ESP32 Bluetooth w/ Rust Series' Articles
 
@@ -175,4 +175,4 @@ Thank you to all [contributors](https://github.com/dotintent/awesome-ble/graphs/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
