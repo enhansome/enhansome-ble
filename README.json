@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T20:58:11Z",
-            "open_issues": 4962,
+            "last_commit": "2026-11-14T17:56:40Z",
+            "open_issues": 5001,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 17083,
+            "stars": 17091,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,11 +49,11 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T01:22:26Z",
-            "open_issues": 2907,
+            "last_commit": "2026-11-15T01:11:20Z",
+            "open_issues": 2910,
             "owner": "project-chip",
             "repo": "connectedhomeip",
-            "stars": 8992,
+            "stars": 8994,
             "topics": [
               "build-with-matter",
               "chip",
@@ -92,7 +92,7 @@
             "open_issues": 238,
             "owner": "IanHarvey",
             "repo": "bluepy",
-            "stars": 1635,
+            "stars": 1636,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -110,10 +110,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-11-13T05:26:48Z",
-            "open_issues": 92,
+            "open_issues": 95,
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
-            "stars": 1572,
+            "stars": 1573,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -130,7 +130,7 @@
             "id": 329225507,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T17:06:56Z",
+            "last_commit": "2026-11-14T19:48:01Z",
             "open_issues": 13,
             "owner": "simpleble",
             "repo": "simpleble",
@@ -712,7 +712,7 @@
             "open_issues": 47,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 20288,
+            "stars": 20293,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -850,7 +850,7 @@
             "open_issues": 1,
             "owner": "engn33r",
             "repo": "awesome-bluetooth-security",
-            "stars": 626,
+            "stars": 627,
             "topics": [
               "awesome",
               "awesome-list",
@@ -911,11 +911,11 @@
             "id": 65899476,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T22:21:05Z",
-            "open_issues": 1834,
+            "last_commit": "2026-11-14T17:24:26Z",
+            "open_issues": 1839,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 19509,
+            "stars": 19512,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:14:59.537Z",
+    "last_updated": "2026-11-15T11:47:31.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
