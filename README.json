@@ -15,11 +15,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T17:56:40Z",
-            "open_issues": 5058,
+            "last_commit": "2026-11-17T12:49:36Z",
+            "open_issues": 4976,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 17099,
+            "stars": 17105,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -49,8 +49,8 @@
             "id": 244694174,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T10:49:11Z",
-            "open_issues": 2929,
+            "last_commit": "2026-11-17T12:38:36Z",
+            "open_issues": 2944,
             "owner": "project-chip",
             "repo": "connectedhomeip",
             "stars": 8995,
@@ -110,7 +110,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-11-13T05:26:48Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "Moddable-OpenSource",
             "repo": "moddable",
             "stars": 1573,
@@ -134,7 +134,7 @@
             "open_issues": 13,
             "owner": "simpleble",
             "repo": "simpleble",
-            "stars": 1151,
+            "stars": 1152,
             "topics": [
               "android",
               "asyncio",
@@ -173,7 +173,7 @@
             "open_issues": 78,
             "owner": "google",
             "repo": "bumble",
-            "stars": 587,
+            "stars": 588,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -284,7 +284,7 @@
             "open_issues": 17,
             "owner": "nordicsemi",
             "repo": "IOS-DFU-Library",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "ble",
               "bluetooth",
@@ -427,8 +427,8 @@
             "id": 293227216,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T09:30:16Z",
-            "open_issues": 79,
+            "last_commit": "2026-11-17T09:20:05Z",
+            "open_issues": 65,
             "owner": "JuulLabs",
             "repo": "kable",
             "stars": 1205,
@@ -488,7 +488,7 @@
             "open_issues": 247,
             "owner": "Jasonchenlijian",
             "repo": "FastBle",
-            "stars": 5508,
+            "stars": 5509,
             "topics": [
               "android",
               "ble",
@@ -544,7 +544,7 @@
             "open_issues": 59,
             "owner": "nordicsemi",
             "repo": "Android-BLE-Library",
-            "stars": 2431,
+            "stars": 2432,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -631,7 +631,7 @@
             "language": "Dart",
             "license": "NOASSERTION",
             "last_commit": "2026-11-10T04:18:17Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "chipweinberger",
             "repo": "flutter_blue_plus",
             "stars": 1010,
@@ -709,10 +709,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-11-10T16:00:13Z",
-            "open_issues": 48,
+            "open_issues": 46,
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 20299,
+            "stars": 20306,
             "topics": [
               "ble",
               "deauthentication-attack",
@@ -750,7 +750,7 @@
             "id": 80807106,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T15:04:00Z",
+            "last_commit": "2026-11-17T07:56:36Z",
             "open_issues": 7,
             "owner": "nordicsemi",
             "repo": "pc-nrfconnect-launcher",
@@ -781,7 +781,7 @@
             "open_issues": 7,
             "owner": "WebBluetoothCG",
             "repo": "demos",
-            "stars": 676,
+            "stars": 675,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -911,11 +911,11 @@
             "id": 65899476,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T04:46:18Z",
-            "open_issues": 1837,
+            "last_commit": "2026-11-17T04:56:45Z",
+            "open_issues": 1839,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 19518,
+            "stars": 19527,
             "topics": []
           },
           "first_seen": "2026-08-28T15:57:06.677Z"
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:29:35.387Z",
+    "last_updated": "2026-11-17T12:50:39.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!",
